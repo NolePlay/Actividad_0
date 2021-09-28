@@ -2,15 +2,15 @@
 
 1. ¿Qué es una página web?
 
-    Respuesta
+    Una página web es un documento o información electrónica capaz de contener texto, sonido, vídeo, programas, enlaces, imágenes, hipervínculos y muchas otras cosas.
    
 2. ¿Qué es un sitio web?
 
-    Respuesta
+    Un sitio web es una colección de páginas web relacionadas y comunes a un dominio de internet o subdominio.
    
 3. ¿Qué es una aplicación web?
 
-    Respuesta
+    Es un programa que se codifica en un lenguaje interpretable por los navegadores web en la que se confía la ejecución al navegador.
    
 4. ¿Qué es una herramienta ofimática?
 
